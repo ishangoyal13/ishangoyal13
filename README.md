@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Java & Web  Development 
 - 🌱 I’m currently learning React Js 
 - 🤔 I’m looking for help with data structures and algorithms 
-- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ishan-goyal-99984a190//) 
+- 📫 How to reach me: LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/https://www.linkedin.com/in/ishan-goyal-99984a190//) )]  [![Gmail Badge](https://img.shields.io/badge/-ishan.goyal1305@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishan.goyal1305@gmail.com)](mailto:ishan.goyal1305@gmail.com)
 - 😄 Pronouns: He/His 
 
 

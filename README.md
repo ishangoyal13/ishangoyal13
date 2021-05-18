@@ -23,5 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishangoyal13&theme=highcontrast)]
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishangoyal13&show_icons=true&theme=highcontrast)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishangoyal13&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+  
  

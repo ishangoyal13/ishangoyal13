@@ -21,7 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishangoyal13&theme=highcontrast)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishangoyal13&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishangoyal13&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   

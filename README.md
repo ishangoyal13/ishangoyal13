@@ -57,4 +57,5 @@
 <a href="mailto:ishan.goyal1305@gmail.com">
  <img src="https://user-images.githubusercontent.com/63895602/122172355-4d2ecf00-ce9e-11eb-978f-28efcab7afa1.png" width="30" height="30">
 </a>
+<!-- to use these icons, go to www.flaticon.com & copy the png to clipboard -->
 </div>

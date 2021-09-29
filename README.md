@@ -35,9 +35,9 @@
  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishangoyal13&layout=compact&theme=highcontrast&custom_title=streak-stats-ty&hide_border=true&layout=compact"  width="48%" align="center" /></a>
 <a><img src="https://github-readme-stats.vercel.app/api?username=ishangoyal13&theme=highcontrast&layout=compact&hide_border=true" align="center" width="48%"></a>
 </div><br />
-<div align="center">
+<!-- <div align="center">
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangoyal13&theme=highcontrast" align="center" width="35%"></a>
- </div>
+ </div> -->
  
  ## 💹 **Activity Graph**
 

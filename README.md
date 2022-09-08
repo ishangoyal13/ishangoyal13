@@ -27,6 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=goland)
 
 <hr>
 
@@ -39,23 +40,3 @@
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangoyal13&theme=highcontrast" align="center" width="35%"></a>
  </div> -->
  
- ## 💹 **Activity Graph**
-
-![ github activity graph](https://activity-graph.herokuapp.com/graph?username=ishangoyal13&theme=github&area=true)
- <br />
- 
- <div align="center">
-<a href="https://twitter.com/IshanGoyal1308">
- <img src="https://user-images.githubusercontent.com/63895602/122171696-a2b6ac00-ce9d-11eb-8831-2ec5964bdd5f.png" width="30" height="30">
-</a>
-<a href="https://www.linkedin.com/in/ishan-goyal-1308/">
- <img src="https://user-images.githubusercontent.com/63895602/122171991-f32e0980-ce9d-11eb-9027-94f54441d586.png" width="30" height="30">
-</a>
-<a href="https://www.instagram.com/ishan_goyal13/">
- <img src="https://user-images.githubusercontent.com/63895602/122172153-1bb60380-ce9e-11eb-9e36-8acc0bc60ae3.png" width="30" height="30">
-</a>
-<a href="mailto:ishan.goyal1305@gmail.com">
- <img src="https://user-images.githubusercontent.com/63895602/122172355-4d2ecf00-ce9e-11eb-978f-28efcab7afa1.png" width="30" height="30">
-</a>
-<!-- to use these icons, go to www.flaticon.com & copy the png to clipboard -->
-</div>

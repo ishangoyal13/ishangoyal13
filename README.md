@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on Java & Web  Development 
 - 🌱 I’m currently learning Full Stack Development
-- 🤔 I’m looking for help with data structures and algorithms 
-- 📫 How to reach me: LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-Ishan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/ishan-goyal-1308/))](https://www.linkedin.com/in/ishan-goyal-1308/)  [![Gmail Badge](https://img.shields.io/badge/-ishan.goyal1305@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishan.goyal1305@gmail.com)](mailto:ishan.goyal1305@gmail.com)
+- 📫 How to reach me:   
+ [![Linkedin Badge](https://img.shields.io/badge/-Ishan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/ishan-goyal-1308/))](https://www.linkedin.com/in/ishan-goyal-1308/)  [![Gmail Badge](https://img.shields.io/badge/-ishan.goyal1305@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishan.goyal1305@gmail.com)](mailto:ishan.goyal1305@gmail.com)
 - 😄 Pronouns: He/His 
 
  <br />
